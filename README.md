@@ -64,6 +64,9 @@ I enjoy exploring different technologies, experimenting with ideas, and learning
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Herondonor&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<img align="right" width="150"
+src="./assets/coding-cat.gif" />
+
 ---
 
 ## 🐍 Contribution Activity
