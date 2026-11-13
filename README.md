@@ -1,8 +1,8 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:9706DB&height=180&section=header&text=Enoch%20Matugas&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=2nd%20Year%20Computer%20Science%20Student%20at%20the%20University%20of%20San%20Carlos&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:9706DB&height=145&section=header&text=Enoch%20Matugas&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=2nd%20Year%20Computer%20Science%20Student%20at%20the%20University%20of%20San%20Carlos&descSize=14&descAlignY=58&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Things+for+the+Web;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=BF91F3&center=true&vCenter=true&width=600&height=35&lines=Computer+Science+Student;Building+Things+for+the+Web;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Growing" />
 </p>
 
 ---
